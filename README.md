@@ -14,7 +14,7 @@ Trang web bán hàng thực phẩm
 #### Yêu cầu môi trường
 Môi trường yêu cầu để chạy backend:
 
-* Java 11
+* Java >= 11
 * mysql:5.7
 
 Chạy springboot
